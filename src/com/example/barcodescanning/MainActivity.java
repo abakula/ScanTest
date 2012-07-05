@@ -1,7 +1,5 @@
 package com.example.barcodescanning;
 
-import com.google.zxing.client.android.Intents;
-
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
